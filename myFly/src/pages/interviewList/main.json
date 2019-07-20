@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "面试列表",
+  "onReachBottomDistance": 10,
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#fff",
+  "backgroundTextStyle":"dark"
+}
